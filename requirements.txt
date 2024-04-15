@@ -1,0 +1,1 @@
+variational-lse-solver~=1.0
