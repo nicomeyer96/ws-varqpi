@@ -1,10 +1,10 @@
 # Warm-Start Variational Quantum Policy Iteration
 
-[![Static Badge](https://img.shields.io/badge/arXiv-0000.00000-red)
-](https://arxiv.org/search/quant-ph?searchtype=author&query=Meyer,+N)
+[![Static Badge](https://img.shields.io/badge/arXiv-2404.10546-red)
+](https://arxiv.org/abs/2404.10546)
 
 This repo contains the code for the paper 
-"Warm-Start Variational Quantum Policy Iteration", N. Meyer et al. (2024).
+["Warm-Start Variational Quantum Policy Iteration", N. Meyer et al., arXiv:2404.10546 (2024)](https://arxiv.org/abs/2404.10546).
 
 <img src="ws-varqpi.png" width="50%">
 
@@ -133,7 +133,7 @@ If you use this implementation or results from the paper, please cite our work a
 @article{meyer2024warm,
   title={Warm-Start Variational Quantum Policy Iteration},
   author={Meyer, Nico and Murauer, Jakob and Popov, Alexander and Ufrecht, Christian and Plinge, Axel and Mutschler, Christopher and Scherer, Daniel D.},
-  journal={arXiv:...},
+  journal={arXiv:2404.10546},
   year={2024},
   doi={.../arXiv...}
 }
