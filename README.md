@@ -135,7 +135,7 @@ If you use this implementation or results from the paper, please cite our work a
   author={Meyer, Nico and Murauer, Jakob and Popov, Alexander and Ufrecht, Christian and Plinge, Axel and Mutschler, Christopher and Scherer, Daniel D.},
   journal={arXiv:2404.10546},
   year={2024},
-  doi={.../arXiv...}
+  doi={10.48550/arXiv.2404.10546}
 }
 ```
 
