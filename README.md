@@ -1,10 +1,11 @@
 # Warm-Start Variational Quantum Policy Iteration
 
-[![Static Badge](https://img.shields.io/badge/arXiv-2404.10546-red)
+[![Static Badge](https://img.shields.io/badge/IEEE-QCE60285.2024.00101-00629B)
+]([https://ieeexplore.ieee.org/document/10821318](https://ieeexplore.ieee.org/document/10821285))[![Static Badge](https://img.shields.io/badge/arXiv-2404.10546-red)
 ](https://arxiv.org/abs/2404.10546)
 
 This repo contains the code for the paper 
-["Warm-Start Variational Quantum Policy Iteration", N. Meyer et al., arXiv:2404.10546 (2024)](https://arxiv.org/abs/2404.10546).
+["Warm-Start Variational Quantum Policy Iteration", IEEE QCE, vol. 1, pp. 1458-1466, 2024](https://ieeexplore.ieee.org/document/10821285).
 
 <img src="ws-varqpi.png" width="50%">
 
@@ -130,12 +131,14 @@ To guarantee reproducible results, one can set the `--seed` argument.
 If you use this implementation or results from the paper, please cite our work as
 
 ```
-@article{meyer2024warm,
+@inproceedings{meyer2024warm,
   title={Warm-Start Variational Quantum Policy Iteration},
   author={Meyer, Nico and Murauer, Jakob and Popov, Alexander and Ufrecht, Christian and Plinge, Axel and Mutschler, Christopher and Scherer, Daniel D.},
-  journal={arXiv:2404.10546},
+  booktitle={IEEE International Conference on Quantum Computing and Engineering (QCE)},
+  volume={1},
+  pages={1458--1466},
   year={2024},
-  doi={10.48550/arXiv.2404.10546}
+  doi={10.1109/QCE60285.2024.00172}
 }
 ```
 
