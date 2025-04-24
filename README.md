@@ -1,7 +1,7 @@
 # Warm-Start Variational Quantum Policy Iteration
 
 [![Static Badge](https://img.shields.io/badge/IEEE-QCE60285.2024.00101-00629B)
-]([https://ieeexplore.ieee.org/document/10821318](https://ieeexplore.ieee.org/document/10821285))[![Static Badge](https://img.shields.io/badge/arXiv-2404.10546-red)
+](https://ieeexplore.ieee.org/document/10821285)[![Static Badge](https://img.shields.io/badge/arXiv-2404.10546-red)
 ](https://arxiv.org/abs/2404.10546)
 
 This repo contains the code for the paper 
